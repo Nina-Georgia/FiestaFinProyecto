@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 -Patatas fritas
 -Rabas
 -Tomate con bonito
 -Mini pizzas
 
 
+=======
+-Frutos secos
+>>>>>>> 37570f87f1d655c55d923c46771fb9b44bf78f50
 
